@@ -1,4 +1,4 @@
-file_path = "/home/ec2-user/environment/10_Submit/bbs.txt"
+file_path = "/bbs.txt"
 
 def new_comment():
     
